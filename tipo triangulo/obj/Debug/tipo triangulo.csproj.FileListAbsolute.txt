@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\tipo triangulo\tipo triangulo\bin\Debug\tipo triangulo.exe.config
+C:\Users\Mauricio M\Downloads\tipo triangulo\tipo triangulo\bin\Debug\tipo triangulo.exe
+C:\Users\Mauricio M\Downloads\tipo triangulo\tipo triangulo\bin\Debug\tipo triangulo.pdb
+C:\Users\Mauricio M\Downloads\tipo triangulo\tipo triangulo\obj\Debug\tipo triangulo.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\tipo triangulo\tipo triangulo\obj\Debug\tipo triangulo.exe
+C:\Users\Mauricio M\Downloads\tipo triangulo\tipo triangulo\obj\Debug\tipo triangulo.pdb
